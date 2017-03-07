@@ -2,7 +2,7 @@
   "name": "printer",
   "description": "Node.js printer bindings",
   "version": "0.3.0",
-  "homepage": "http://github.com/tojocky/node-printer",
+  "homepage": "http://github.com/roomofdoom/node-printer",
   "author": {
     "name": "Ion Lupascu",
     "url": "http://program-support.co.uk/",
